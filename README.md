@@ -2,7 +2,7 @@
 
 Aplicação web que mostra o clima atual da cidade que o usuário pesquisar, consumindo dados da API do OpenWeather.
 
-🔗 **Demo:** [soares-kaue.github.io/weather-forecast](https://soares-kaue.github.io/weather-forecast/)
+🔗 **Demo:** [Link do Weather Forecast](https://soares-kaue.github.io/weather-forecast/)
 
 ![Preview do projeto](./src/images/preview.png)
 
